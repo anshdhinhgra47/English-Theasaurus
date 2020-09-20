@@ -4,5 +4,10 @@ A basic and smart command-line theasaurus that displays the definition of the wo
 ## Usage
 
 ```bash
-$ python app.py
+$ python3 app.py
+```
+## Dependencies
+
+```bash
+Python 3.0 and above
 ```
